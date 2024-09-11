@@ -10,6 +10,25 @@
 
 - The Miryoku QMK development branch readme is at https://github.com/manna-harbour/miryoku_qmk/tree/miryoku/users/manna-harbour_miryoku
 
+** Usage
+
+#+NAME: usage
+#+BEGIN_SRC bash
+$ git clone https://github.com/TheMaxMur/miryoku_qmk.git
+$ cd mityoku_qmk
+$ qmk compile -kb crkbd -km maxmur 
+$ qmk flash -kb crkbd -km maxmur
+#+END_SRC
+
+** Layout
+
+[[https://github.com/TheMaxMur/NixOS-Configuration/blob/master/assets/keyboard/layer-0.png]]
+[[https://github.com/TheMaxMur/NixOS-Configuration/blob/master/assets/keyboard/layer-1.png]]
+[[https://github.com/TheMaxMur/NixOS-Configuration/blob/master/assets/keyboard/layer-2.png]]
+[[https://github.com/TheMaxMur/NixOS-Configuration/blob/master/assets/keyboard/layer-3.png]]
+[[https://github.com/TheMaxMur/NixOS-Configuration/blob/master/assets/keyboard/layer-4.png]]
+[[https://github.com/TheMaxMur/NixOS-Configuration/blob/master/assets/keyboard/layer-5.png]]
+[[https://github.com/TheMaxMur/NixOS-Configuration/blob/master/assets/keyboard/layer-6.png]]
 
 ** 
 
